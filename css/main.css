@@ -1,0 +1,23 @@
+#heading1{
+    background-color: royalblue;
+    color:white;
+    margin-top: 0;
+}
+#heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#description{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+#nav div{
+    margin:10px;
+}
