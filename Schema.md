@@ -1,8 +1,8 @@
 # Database Schema
 ## 1NF
 ### User Details 
-    - Username
-    - Password
+- **Username**
+- Password
 ### EventDetails
     - EventId
     - Event title
