@@ -65,11 +65,11 @@
     - EndTime
     - Description
 ### LearningResource 
-    - **LearningResourceId**
+    - <LearningResourceId>
     - LearningResourceTitle
     - Topic
     - URL
     - Description
 ### SubjectTopic
-    - **Topic**
+    - <Topic>
     - Subject
